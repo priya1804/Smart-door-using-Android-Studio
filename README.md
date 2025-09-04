@@ -1,5 +1,4 @@
 Smart-Door
-
 Smart-Door is an Android application that simulates a smart door system using CameraX and ML Kit Face Detection.
 
 The app uses the device camera to detect the presence of faces and automatically toggles the "door" state (open/close), showing updates via Toast messages. It’s lightweight, works offline, and demonstrates how to integrate CameraController with ML Kit Analyzer in a modern, recommended way.
